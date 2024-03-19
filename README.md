@@ -24,7 +24,7 @@ Make Dice command string to Expression like "1d3 + 1d6 > 5"
 
 ### Commands
 #### Dice
-Dice tool for TPGC
+Dice tool for TRPG
 
 #### Image
 Search image using nature language, translate it to image tags via GPT
