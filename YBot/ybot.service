@@ -1,0 +1,11 @@
+[Unit]
+Description=ChatBot
+
+[Service]
+Type=notify
+User=root
+WorkingDirectory=/usr/local/bin/ybot
+ExecStart=/usr/local/bin/ybot/YBot
+
+[Install]
+WantedBy=multi-user.target

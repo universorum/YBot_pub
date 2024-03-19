@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YBot", "YBot\YBot.csproj", "{28A1E296-9B90-4564-B209-C287778FE7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YBot.Tests", "YBot.Tests\YBot.Tests.csproj", "{B680A9F0-5DB9-4ACC-BACA-F027A3EC3D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YBot.Command.Generator", "YBot.Command.Generator\YBot.Command.Generator.csproj", "{083DED94-44B0-4CA6-8049-2B761657A34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YBot.Command.Abstracts", "YBot.Command.Abstracts\YBot.Command.Abstracts.csproj", "{E38F899D-0E5E-4E48-A194-CB4316B8CD99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A1E296-9B90-4564-B209-C287778FE7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A1E296-9B90-4564-B209-C287778FE7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A1E296-9B90-4564-B209-C287778FE7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A1E296-9B90-4564-B209-C287778FE7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B680A9F0-5DB9-4ACC-BACA-F027A3EC3D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B680A9F0-5DB9-4ACC-BACA-F027A3EC3D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B680A9F0-5DB9-4ACC-BACA-F027A3EC3D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B680A9F0-5DB9-4ACC-BACA-F027A3EC3D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083DED94-44B0-4CA6-8049-2B761657A34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083DED94-44B0-4CA6-8049-2B761657A34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083DED94-44B0-4CA6-8049-2B761657A34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083DED94-44B0-4CA6-8049-2B761657A34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38F899D-0E5E-4E48-A194-CB4316B8CD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38F899D-0E5E-4E48-A194-CB4316B8CD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38F899D-0E5E-4E48-A194-CB4316B8CD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38F899D-0E5E-4E48-A194-CB4316B8CD99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
